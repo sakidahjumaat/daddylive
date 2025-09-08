@@ -7,7 +7,7 @@ Link: https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/dad
 ---
 
 #### Status
-* DEAD
+* FIGHTING4LIFE
 ---
 
 ##
