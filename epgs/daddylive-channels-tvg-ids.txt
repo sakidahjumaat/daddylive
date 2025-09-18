@@ -589,3 +589,4 @@ HBO2.HD.us2
 Cinemax.HD.us2
 MGM+.HD.us2
 MGM+.Drive-In.us2
+MGM+.Marquee.HD.us2
