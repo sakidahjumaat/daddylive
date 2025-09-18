@@ -603,3 +603,5 @@ plex.tv.MOVIESPHERE.plex
 plex.tv.MyTime.Movie.Network.plex
 Studio.Universal.id
 FILMAX.HD.pl
+STARZ1.-.East.HD.ca
+STARZ2.-.East.HD.ca
