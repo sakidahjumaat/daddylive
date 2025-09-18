@@ -587,3 +587,5 @@ AMC+.us2
 AMAZON MOVIES
 HBO2.HD.us2
 Cinemax.HD.us2
+MGM+.HD.us2
+MGM+.Drive-In.us2
