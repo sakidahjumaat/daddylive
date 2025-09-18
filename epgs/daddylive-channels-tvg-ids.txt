@@ -602,3 +602,4 @@ plex.tv.Action.Hollywood.Movies.plex
 plex.tv.MOVIESPHERE.plex
 plex.tv.MyTime.Movie.Network.plex
 Studio.Universal.id
+FILMAX.HD.pl
