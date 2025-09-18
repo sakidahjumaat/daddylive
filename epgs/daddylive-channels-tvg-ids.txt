@@ -584,3 +584,4 @@ Nova.Sport.bg
 Sporting.TV.HD.pt
 CBC.(CBLT).Toronto,.ON.ca
 AMC+.us2
+AMAZON MOVIES
