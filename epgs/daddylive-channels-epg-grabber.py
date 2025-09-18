@@ -117,6 +117,9 @@ urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
     "https://raw.githubusercontent.com/atone77721/AMZN_EPG/refs/heads/main/data/amazon.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
 ]
 
 if __name__ == "__main__":
