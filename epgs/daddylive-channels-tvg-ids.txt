@@ -586,3 +586,4 @@ CBC.(CBLT).Toronto,.ON.ca
 AMC+.us2
 AMAZON MOVIES
 HBO2.HD.us2
+Cinemax.HD.us2
