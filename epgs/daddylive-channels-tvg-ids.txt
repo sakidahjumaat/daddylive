@@ -590,3 +590,7 @@ Cinemax.HD.us2
 MGM+.HD.us2
 MGM+.Drive-In.us2
 MGM+.Marquee.HD.us2
+Crave1.-.East.HD.ca
+Crave2.-.East.HD.ca
+Crave3.-.East.HD.ca
+Crave4.HD.ca
