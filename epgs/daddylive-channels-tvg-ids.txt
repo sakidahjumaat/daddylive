@@ -594,3 +594,4 @@ Crave1.-.East.HD.ca
 Crave2.-.East.HD.ca
 Crave3.-.East.HD.ca
 Crave4.HD.ca
+USA.Network.-.Eastern.Feed.us
