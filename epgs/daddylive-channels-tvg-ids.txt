@@ -621,3 +621,4 @@ Hub.Sports.2.HD.sg
 Hub.Sports.3.HD.sg
 Hub.Sports.4.HD.sg
 Hub.Sports.5.HD.sg
+511.sooka
