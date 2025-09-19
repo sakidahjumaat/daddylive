@@ -123,6 +123,12 @@ urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz",
     "https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml",
+    "https://www.open-epg.com/files/indonesia1.xml.gz",
+    "https://www.open-epg.com/files/indonesia2.xml.gz",
+    "https://www.open-epg.com/files/indonesia3.xml.gz",
+    "https://www.open-epg.com/files/indonesia4.xml.gz",
+    "https://www.open-epg.com/files/indonesia5.xml.gz",
+    "https://www.open-epg.com/files/indonesia6.xml.gz",
 ]
 
 if __name__ == "__main__":
