@@ -706,5 +706,5 @@ Discovery.Channel.HD.id
 Reformed 21.id
 Al Jazeera Arabic.id
 EWTN.id
-
+Citra Drama.id
 
