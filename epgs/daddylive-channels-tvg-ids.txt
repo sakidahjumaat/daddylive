@@ -702,7 +702,9 @@ France.24.id
 Citra.Dangdut.id
 Citra.Drama.id
 Bioskop.Indonesia.id
-
-
+Discovery.Channel.HD.id
+Reformed 21.id
+Al Jazeera Arabic.id
+EWTN.id
 
 
