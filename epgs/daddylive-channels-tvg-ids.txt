@@ -708,3 +708,4 @@ Al Jazeera Arabic.id
 EWTN.id
 Citra Drama.id
 GTV - [Channel 81].id
+Trans TV - [Channel 87].id
