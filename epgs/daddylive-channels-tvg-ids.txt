@@ -707,4 +707,4 @@ Reformed 21.id
 Al Jazeera Arabic.id
 EWTN.id
 Citra Drama.id
-
+GTV - [Channel 81].id
