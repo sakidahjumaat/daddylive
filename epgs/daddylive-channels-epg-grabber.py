@@ -129,7 +129,7 @@ urls = [
     "https://www.open-epg.com/files/indonesia4.xml.gz",
     "https://www.open-epg.com/files/indonesia5.xml.gz",
     "https://www.open-epg.com/files/indonesia6.xml.gz",
-    "https://i.mjh.nz/PlutoTV/ca.xml.gz",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz",
 ]
 
 if __name__ == "__main__":
