@@ -731,4 +731,97 @@ Trans 7 - [Channel 110].id
 64c0d697b0cf5c000824e5d9
 5ad8d1e9e738977e2c310925
 6000a6f4c3f8550008fc9b91
+France24.sg
+Preview Channel.sg
+Channel 5 HD.sg
+Channel 8 HD.sg
+Suria HD.sg
+Vasantham HD.sg
+NO MATCH
+Channel U HD.sg
+Hub E City HD.sg
+Citra Entertainment.sg
+Karisma.sg
+Astro Warna HD.sg
+Astro Sensasi HD.sg
+Zee TV.sg
+Sony Entertainment Television.sg
+SONY MAX.sg
+ANC.sg
+Cinema One Global.sg
+TV5MONDE HD.sg
+DW English HD.sg
+Hub Sports 1 HD.sg
+Hub Sports 2 HD.sg
+Hub Sports 3 HD.sg
+Hub Sports 4 HD.sg
+Hub Sports 5 HD.sg
+Hub Sports 6.sg
+Hub Sports 7.sg
+NO MATCH
+SPOTV.sg
+SPOTV2.sg
+beIN Sports 2 HD.sg
+beIN Sports 2 HD.sg
+beIN Sports 3.sg
+beIN Sports 4.sg
+beIN Sports 5.sg
+Hub Premier 1.sg
+Hub Premier 2 (4K).sg
+Hub Premier 3.sg
+Hub Premier 4.sg
+Hub Premier 5.sg
+Hub Premier 6.sg
+Hub Premier 8.sg
+Cbeebies HD.sg
+Nick Jr.sg
+DreamWorks Channel HD.sg
+Nickelodeon Asia HD.sg
+Cartoon Network.sg
+Cartoonito HD.sg
+HISTORY HD.sg
+Crime + Investigation HD.sg
+BBC Earth HD.sg
+Discovery HD.sg
+Travelxp HD.sg
+BBC Lifestyle.sg
+HGTV.sg
+FashionTV HD.sg
+ABC Australia HD.sg
+ROCK Entertainment.sg
+AXN HD.sg
+Hits HD.sg
+Lifetime HD.sg
+HBO Hits HD.sg
+Animax HD.sg
+HBO Family HD.sg
+HBO HD.sg
+HBO Family HD.sg
+HBO HD.sg
+Cinemax HD.sg
+NO MATCH
+Fox News Channel.sg
+Sky News HD.sg
+Euronews HD.sg
+CNBC HD.sg
+Bloomberg Television HD.sg
+CNN HD.sg
+CGTN.sg
+ANC.sg
+NO MATCH
+Phoenix Chinese Channel HD.sg
+ONE HD.sg
+NO MATCH
+NHK WORLD - JAPAN HD.sg
+KBS World HD.sg
+Arirang TV HD.sg
+ONE HD.sg
+Hub E City HD.sg
+TVBS Asia.sg
+Dragon TV.sg
+TVB Jade HD.sg
+Hub VVDrama.sg
+TVB Xing He.sg
+Celestial Movies HD.sg
+NO MATCH
 
