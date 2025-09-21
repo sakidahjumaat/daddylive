@@ -828,3 +828,5 @@ CCM.sg
 ADITHYA TV.sg
 Vannathirai.sg
 Sun TV.sg
+RCTI.id
+MNCTV.id
