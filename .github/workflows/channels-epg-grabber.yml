@@ -2,7 +2,7 @@ name: channels-epg-grabber
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'
+    - cron: '0 4,10,16,22 * * *' # Runs every 6 hours at 00:00, 06:00, 12:00, 18:00 UTC+8
   workflow_dispatch:
 
 jobs:
