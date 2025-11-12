@@ -850,4 +850,6 @@ Champions.TV.5.id
 Champions.TV.6.id
 414.astro
 413.astro
+STARZ1 - East HD.ca
+STARZ2 - East HD.ca
 
