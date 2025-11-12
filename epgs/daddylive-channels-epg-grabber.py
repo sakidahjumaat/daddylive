@@ -134,6 +134,7 @@ urls = [
     "https://www.open-epg.com/files/singapore3.xml.gz",
     "https://viplink.biz/malaysia2_fixed.xml",
     "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/sooka.xml",
+    "https://www.open-epg.com/files/canada1.xml",
 ]
 
 if __name__ == "__main__":
