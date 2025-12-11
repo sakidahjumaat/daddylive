@@ -136,6 +136,9 @@ urls = [
     "https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/sooka.xml",
     "https://www.open-epg.com/files/canada1.xml",
     "https://www.open-epg.com/files/unitedkingdom1.xml",
+    "https://www.open-epg.com/files/unitedstates1.xml.gz";
+    "https://www.open-epg.com/files/unitedstates10.xml.gz";
+    "https://www.open-epg.com/files/unitedstates11.xml.gz";
 ]
 
 if __name__ == "__main__":
