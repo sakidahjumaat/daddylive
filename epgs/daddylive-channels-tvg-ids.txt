@@ -876,5 +876,6 @@ Sky Sports Tennis HD.uk
 Sky Sports F1 HD.uk
 Sky Sports Golf HD.uk
 Sky Sports Racing.uk
+Sky Sports Football HD.uk
 
 
