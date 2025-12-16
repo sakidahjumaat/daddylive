@@ -866,4 +866,15 @@ HBO Comedy (East).us
 HBO Family (East).us
 Showtime FamilyZone (East).us
 MGM+ HD  East.us
+Sky Sports Main Event HD.uk
+Sky Sports Premier League HD.uk
+Sky Sports Mix HD.uk
+Sky Sports Arena.uk
+Sky Sports News HD.uk
+Sky Sports Cricket.uk
+Sky Sports Tennis HD.uk
+Sky Sports F1 HD.uk
+Sky Sports Golf HD.uk
+Sky Sports Racing.uk
+
 
