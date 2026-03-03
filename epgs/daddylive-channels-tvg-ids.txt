@@ -877,5 +877,11 @@ Sky Sports F1 HD.uk
 Sky Sports Golf HD.uk
 Sky Sports Racing.uk
 Sky Sports Football HD.uk
+HBO.id
+Cinemax.id
+HBO Family.id
+HBO Hits.id
+HBO Family.id
+
 
 
