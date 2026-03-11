@@ -895,6 +895,6 @@ Cinemax.HD.us2
 FX.Movie.Channel.HD.us2
 HBO.Comedy.HD.us2
 Showtime.Familyzone.HD.us2
-
+Showtime Showcase HD  East.us
 
 
