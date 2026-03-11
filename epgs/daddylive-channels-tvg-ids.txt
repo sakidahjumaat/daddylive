@@ -882,6 +882,19 @@ Cinemax.id
 HBO Family.id
 HBO Hits.id
 HBO Family.id
+Hallmark.Mystery.HD.us2
+HBO.East.us2
+HBO.Zone.HD.us2
+HBO2.HD.us2
+Showtime.2.HD.us2
+Showtime.Extreme.HD.us2
+Showtime.Showcase.HD.us2
+Paramount.Network.HD.us2
+Syfy.HD.us2
+Cinemax.HD.us2
+FX.Movie.Channel.HD.us2
+HBO.Comedy.HD.us2
+Showtime.Familyzone.HD.us2
 
 
 
