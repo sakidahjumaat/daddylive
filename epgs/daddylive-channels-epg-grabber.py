@@ -138,6 +138,7 @@ urls = [
     "https://www.open-epg.com/files/unitedkingdom1.xml",
     "https://www.open-epg.com/files/unitedstates1.xml.gz",
     "https://www.open-epg.com/files/unitedstates10.xml.gz",
+    "https://www.open-epg.com/files/india1.xml",
     "https://www.open-epg.com/files/unitedstates11.xml.gz",
 ]
 
