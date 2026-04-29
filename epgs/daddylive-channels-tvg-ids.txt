@@ -1774,5 +1774,9 @@ ZBioskop.id;ZBioskop.id
 Zhejiang.id;Zhejiang.id
 GTV.id
 AstroFAMTime
+MN+ HD.in
+MNX HD.in
+Movies Now HD.in
+Romedy Now.in
 
 
