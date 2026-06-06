@@ -140,6 +140,7 @@ urls = [
     "https://www.open-epg.com/files/unitedstates10.xml.gz",
     "https://www.open-epg.com/files/india1.xml",
     "https://www.open-epg.com/files/unitedstates11.xml.gz",
+    "https://link2u.cc/q9dq7",
 ]
 
 if __name__ == "__main__":
