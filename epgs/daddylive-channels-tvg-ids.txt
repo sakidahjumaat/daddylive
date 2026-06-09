@@ -1781,5 +1781,11 @@ Romedy Now.in
 fifa2.unifi
 fifa1.unifi
 fifa3.unifi
+TSN1HD.ca;TSN 1 HD.ca
+TSN2HD.ca;TSN 2 HD.ca
+TSN3HD.ca;TSN 3 HD.ca
+TSN4HD.ca;TSN 4 HD.ca
+TSN54K.ca;TSN 5 4K.ca
+TSN5HD.ca;TSN 5 HD.ca
 
 
