@@ -141,7 +141,7 @@ urls = [
     "https://www.open-epg.com/files/india1.xml",
     "https://www.open-epg.com/files/unitedstates11.xml.gz",
     "https://raw.githubusercontent.com/ggwpmy/epg/refs/heads/main/epg.xml",
-    "https://www.open-epg.com/files/canada.xml.gz",
+    "https://www.open-epg.com/files/canada.xml",
 ]
 
 if __name__ == "__main__":
