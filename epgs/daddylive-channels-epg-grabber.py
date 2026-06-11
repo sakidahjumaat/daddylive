@@ -140,8 +140,7 @@ urls = [
     "https://www.open-epg.com/files/unitedstates10.xml.gz",
     "https://www.open-epg.com/files/india1.xml",
     "https://www.open-epg.com/files/unitedstates11.xml.gz",
-    "https://link2u.cc/q9dq7",
-    "https://link2u.cc/HAUI4",
+    "https://raw.githubusercontent.com/ggwpmy/epg/refs/heads/main/epg.xml",
     "https://www.open-epg.com/files/canada.xml.gz",
 ]
 
