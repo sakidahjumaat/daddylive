@@ -1787,5 +1787,8 @@ TSN3HD.ca
 TSN4HD.ca
 TSN54K.ca
 TSN5HD.ca
+fifa-wc-1.rtm
+fifa-wc-2.rtm
+fifa-wc-3.rtm
 
 
